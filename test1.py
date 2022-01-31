@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[34]:
-
+# Please note that i answered all the questions 1-20, however my answers for 11-20 were not uploaded and my score was recorded as 35%
 
 import numpy as np
 import pandas as pd
